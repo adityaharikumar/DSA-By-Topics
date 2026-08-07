@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0075-sort-colors) |
+| [0209-minimum-size-subarray-sum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0209-minimum-size-subarray-sum) |
 | [3731-find-missing-elements](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0424-longest-repeating-character-replacement) |
 ## Depth-First Search
 |  |
@@ -81,4 +83,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
