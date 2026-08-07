@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0015-3sum) |
 | [3731-find-missing-elements](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -13,11 +14,13 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0015-3sum) |
 | [3731-find-missing-elements](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0015-3sum) |
 | [0647-palindromic-substrings](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0647-palindromic-substrings) |
 ## String
 |  |
