@@ -31,18 +31,21 @@
 | [0018-4sum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0075-sort-colors) |
 | [0647-palindromic-substrings](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0647-palindromic-substrings) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0005-longest-palindromic-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0647-palindromic-substrings) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0647-palindromic-substrings) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Manacher
 |  |
 | ------- |
@@ -77,6 +80,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0011-container-with-most-water) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Quicksort
 |  |
