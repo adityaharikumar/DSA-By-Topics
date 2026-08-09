@@ -37,6 +37,7 @@
 | [0075-sort-colors](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0202-happy-number) |
 | [0647-palindromic-substrings](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0876-middle-of-the-linked-list) |
@@ -139,12 +140,14 @@
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0143-reorder-list) |
 | [0486-predict-the-winner](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0486-predict-the-winner) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -152,4 +155,8 @@
 | [0141-linked-list-cycle](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0202-happy-number) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
