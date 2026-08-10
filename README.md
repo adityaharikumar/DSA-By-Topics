@@ -59,6 +59,7 @@
 | [0486-predict-the-winner](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0647-palindromic-substrings) |
 | [1140-stone-game-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Manacher
 |  |
@@ -88,6 +89,7 @@
 | [0202-happy-number](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
@@ -130,16 +132,19 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1510-stone-game-iv) |
 ## Recursion
 |  |
 | ------- |
@@ -165,4 +170,12 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0143-reorder-list) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
