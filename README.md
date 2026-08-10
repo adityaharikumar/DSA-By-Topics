@@ -76,6 +76,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [3310-remove-methods-from-project](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -164,6 +165,7 @@
 | [0143-reorder-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0206-reverse-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -191,4 +193,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0148-sort-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
