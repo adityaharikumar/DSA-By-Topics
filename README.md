@@ -93,6 +93,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0486-predict-the-winner) |
@@ -156,12 +157,14 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0486-predict-the-winner) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0002-add-two-numbers) |
 | [0086-partition-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0138-copy-list-with-random-pointer) |
