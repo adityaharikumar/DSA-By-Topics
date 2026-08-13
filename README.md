@@ -16,6 +16,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0713-subarray-product-less-than-k) |
 | [1140-stone-game-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1140-stone-game-ii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3731-find-missing-elements) |
@@ -67,6 +68,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0647-palindromic-substrings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
@@ -228,4 +230,12 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
