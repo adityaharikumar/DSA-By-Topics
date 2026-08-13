@@ -17,6 +17,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0713-subarray-product-less-than-k) |
 | [0881-boats-to-save-people](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1140-stone-game-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -41,6 +42,7 @@
 | [0075-sort-colors](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0148-sort-list) |
 | [0881-boats-to-save-people](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0977-squares-of-a-sorted-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -66,6 +68,7 @@
 | [0647-palindromic-substrings](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
