@@ -20,6 +20,7 @@
 | [0904-fruit-into-baskets](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1140-stone-game-ii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -96,6 +97,7 @@
 | [0486-predict-the-winner](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0647-palindromic-substrings) |
 | [1140-stone-game-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1140-stone-game-ii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Manacher
@@ -112,6 +114,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3090-maximum-length-substring-with-two-occurrences) |
