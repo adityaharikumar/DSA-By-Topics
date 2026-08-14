@@ -35,6 +35,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -72,6 +73,7 @@
 | [0283-move-zeroes](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0345-reverse-vowels-of-a-string) |
+| [0567-permutation-in-string](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0881-boats-to-save-people) |
@@ -84,6 +86,7 @@
 | [0005-longest-palindromic-substring](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0005-longest-palindromic-substring) |
 | [0345-reverse-vowels-of-a-string](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0647-palindromic-substrings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -110,6 +113,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0904-fruit-into-baskets) |
