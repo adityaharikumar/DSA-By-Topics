@@ -18,6 +18,7 @@
 | [0503-next-greater-element-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0713-subarray-product-less-than-k) |
+| [0739-daily-temperatures](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0977-squares-of-a-sorted-array) |
@@ -252,6 +253,7 @@
 | [0445-add-two-numbers-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0739-daily-temperatures) |
 ## Nim Game
 |  |
 | ------- |
@@ -298,4 +300,5 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
