@@ -22,6 +22,7 @@
 | [0881-boats-to-save-people](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0907-sum-of-subarray-minimums) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0962-maximum-width-ramp](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1004-max-consecutive-ones-iii) |
@@ -60,6 +61,7 @@
 | [0075-sort-colors](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0148-sort-list) |
 | [0881-boats-to-save-people](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0881-boats-to-save-people) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0977-squares-of-a-sorted-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3731-find-missing-elements) |
@@ -312,4 +314,12 @@
 | [0739-daily-temperatures](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0907-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0962-maximum-width-ramp) |
+## Queue
+|  |
+| ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0950-reveal-cards-in-increasing-order) |
+## Simulation
+|  |
+| ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0950-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
