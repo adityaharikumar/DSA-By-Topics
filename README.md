@@ -11,6 +11,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0486-predict-the-winner) |
@@ -128,6 +129,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0643-maximum-average-subarray-i) |
@@ -326,6 +328,7 @@
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0239-sliding-window-maximum) |
 | [0649-dota2-senate](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0649-dota2-senate) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Simulation
@@ -336,4 +339,16 @@
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2029-stone-game-ix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
