@@ -17,6 +17,7 @@
 | [0486-predict-the-winner](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0503-next-greater-element-ii) |
+| [0622-design-circular-queue](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0713-subarray-product-less-than-k) |
@@ -260,6 +261,7 @@
 | [0206-reverse-linked-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0206-reverse-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0445-add-two-numbers-ii) |
+| [0622-design-circular-queue](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -333,6 +335,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0649-dota2-senate) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -359,5 +362,6 @@
 ## Design
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
