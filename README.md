@@ -32,6 +32,7 @@
 | [1140-stone-game-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1386-cinema-seat-allocation) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1696-jump-game-vi](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1696-jump-game-vi) |
 | [2029-stone-game-ix](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -126,6 +127,7 @@
 | [1140-stone-game-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1140-stone-game-ii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1510-stone-game-iv) |
+| [1696-jump-game-vi](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1696-jump-game-vi) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Manacher
 |  |
@@ -344,6 +346,7 @@
 | [0641-design-circular-deque](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0649-dota2-senate) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1696-jump-game-vi](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1696-jump-game-vi) |
 ## Simulation
 |  |
 | ------- |
@@ -357,10 +360,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0239-sliding-window-maximum) |
+| [1696-jump-game-vi](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1696-jump-game-vi) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0239-sliding-window-maximum) |
+| [1696-jump-game-vi](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1696-jump-game-vi) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
