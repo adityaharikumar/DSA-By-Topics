@@ -293,6 +293,7 @@
 | [0496-next-greater-element-i](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0907-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0962-maximum-width-ramp) |
 ## Nim Game
@@ -345,6 +346,7 @@
 | [0496-next-greater-element-i](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0907-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0962-maximum-width-ramp) |
 ## Queue
@@ -387,6 +389,7 @@
 | ------- |
 | [0622-design-circular-queue](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0641-design-circular-deque) |
+| [0901-online-stock-span](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0933-number-of-recent-calls) |
 ## Combinatorics
 |  |
@@ -395,5 +398,6 @@
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
