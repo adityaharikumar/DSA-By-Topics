@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0189-rotate-array) |
@@ -71,6 +72,7 @@
 | ------- |
 | [0015-3sum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0148-sort-list) |
 | [0621-task-scheduler](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0621-task-scheduler) |
@@ -204,6 +206,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
