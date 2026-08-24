@@ -15,6 +15,7 @@
 | [0239-sliding-window-maximum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0287-find-the-duplicate-number) |
+| [0456-132-pattern](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0503-next-greater-element-ii) |
@@ -222,6 +223,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0287-find-the-duplicate-number) |
+| [0456-132-pattern](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0456-132-pattern) |
 | [0713-subarray-product-less-than-k](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1004-max-consecutive-ones-iii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -306,6 +308,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0445-add-two-numbers-ii) |
+| [0456-132-pattern](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0735-asteroid-collision) |
@@ -341,6 +344,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0456-132-pattern) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Timsort
 |  |
@@ -360,6 +364,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0739-daily-temperatures) |
