@@ -35,6 +35,7 @@
 | [1386-cinema-seat-allocation](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1386-cinema-seat-allocation) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1696-jump-game-vi](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1696-jump-game-vi) |
+| [1872-stone-game-viii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -135,6 +136,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1510-stone-game-iv) |
 | [1696-jump-game-vi](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1696-jump-game-vi) |
+| [1872-stone-game-viii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Manacher
 |  |
@@ -181,6 +183,7 @@
 | [0486-predict-the-winner](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -228,6 +231,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1872-stone-game-viii) |
 ## Backtracking
 |  |
 | ------- |
@@ -243,6 +247,7 @@
 | [0486-predict-the-winner](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
@@ -250,6 +255,7 @@
 | [0486-predict-the-winner](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
@@ -258,6 +264,7 @@
 | [0486-predict-the-winner](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2029-stone-game-ix) |
 ## Recursion
 |  |
