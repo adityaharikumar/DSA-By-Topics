@@ -1,54 +1,28 @@
 class Solution {
     public String predictPartyVictory(String senate) {
-     /* Queue<Integer> rad = new LinkedList<>();
-      Queue<Integer> di = new LinkedList<>();
-
-      int n = senate.length();
-      for(int i=0;i<n;i++){
-        if(senate.charAt(i)=='R'){
-            rad.add(i);
-        }else{
-            di.add(i);
+        int n = senate.length();
+        Queue<Integer> rad = new LinkedList<>();
+        Queue<Integer> da = new LinkedList<>();
+        for(int i=0;i<n;i++){
+            if(senate.charAt(i)=='R'){
+                rad.offer(i);
+            }else{
+                da.offer(i);
+            }
         }
-      }
-      while(!rad.isEmpty() && !di.isEmpty()){
-        int r = rad.poll();
-        int d = di.poll();
-        if(r<d){
-            rad.add(n+r);
-        }else{
-            di.add(n+d);
+        while(!rad.isEmpty() && !da.isEmpty()){
+            int r = rad.poll();
+            int d = da.poll();
+            if(r<d){
+                rad.offer(r+n);
+            }else{
+                da.offer(d+n);
+            }
         }
-      }
-      if(!rad.isEmpty()){
-        return "Radiant";
-      }else{
-        return "Dire";
-      }*/
-
-    int n = senate.length();
-    Queue<Integer> rad = new LinkedList<>();
-    Queue<Integer> di = new LinkedList<>();
-    for(int i=0;i<n;i++){
-        if(senate.charAt(i)=='R'){
-            rad.add(i);
+        if(rad.isEmpty()){
+            return "Dire";
         }else{
-            di.add(i);
+            return "Radiant";
         }
-    }
-    while(!rad.isEmpty() && !di.isEmpty()){
-        int r = rad.poll();
-        int d = di.poll();
-        if(r<d){
-            rad.add(n+r);
-        }else{
-            di.add(n+d);
-        }
-    }
-    if(!rad.isEmpty()){
-        return "Radiant";
-    }else{
-        return "Dire";
-    }
     }
 }
