@@ -22,6 +22,7 @@
 | [0486-predict-the-winner](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0503-next-greater-element-ii) |
+| [0523-continuous-subarray-sum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0621-task-scheduler) |
@@ -68,6 +69,7 @@
 | [0202-happy-number](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0567-permutation-in-string) |
@@ -206,6 +208,7 @@
 | [0202-happy-number](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0202-happy-number) |
 | [0445-add-two-numbers-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0486-predict-the-winner) |
+| [0523-continuous-subarray-sum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0523-continuous-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1872-stone-game-viii) |
@@ -258,6 +261,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0209-minimum-size-subarray-sum) |
+| [0523-continuous-subarray-sum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0713-subarray-product-less-than-k) |
@@ -392,6 +396,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0287-find-the-duplicate-number) |
+| [0523-continuous-subarray-sum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0523-continuous-subarray-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
