@@ -9,6 +9,7 @@
 | [0018-4sum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0056-merge-intervals](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0189-rotate-array) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0142-linked-list-cycle-ii) |
@@ -437,4 +439,8 @@
 | ------- |
 | [0901-online-stock-span](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0933-number-of-recent-calls) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
