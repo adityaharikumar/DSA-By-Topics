@@ -22,6 +22,7 @@
 | [0486-predict-the-winner](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0641-design-circular-deque) |
@@ -65,6 +66,7 @@
 | [0202-happy-number](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0904-fruit-into-baskets) |
@@ -250,6 +252,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1004-max-consecutive-ones-iii) |
