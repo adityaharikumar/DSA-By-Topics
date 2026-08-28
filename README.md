@@ -41,6 +41,7 @@
 | [1140-stone-game-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1386-cinema-seat-allocation) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1696-jump-game-vi](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1696-jump-game-vi) |
 | [1872-stone-game-viii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2029-stone-game-ix) |
@@ -72,6 +73,7 @@
 | [0904-fruit-into-baskets](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1386-cinema-seat-allocation](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1386-cinema-seat-allocation) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2653-sliding-subarray-beauty) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -175,6 +177,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2653-sliding-subarray-beauty) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -247,6 +250,7 @@
 | [0456-132-pattern](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0456-132-pattern) |
 | [0713-subarray-product-less-than-k](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1004-max-consecutive-ones-iii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Prefix Sum
 |  |
@@ -257,6 +261,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1140-stone-game-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1872-stone-game-viii) |
 ## Backtracking
 |  |
