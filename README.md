@@ -119,6 +119,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0345-reverse-vowels-of-a-string) |
@@ -311,6 +312,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0486-predict-the-winner) |
 ## Linked List
 |  |
@@ -326,6 +328,7 @@
 | [0143-reorder-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0234-palindrome-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0445-add-two-numbers-ii) |
 | [0622-design-circular-queue](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0622-design-circular-queue) |
@@ -342,6 +345,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0496-next-greater-element-i) |
