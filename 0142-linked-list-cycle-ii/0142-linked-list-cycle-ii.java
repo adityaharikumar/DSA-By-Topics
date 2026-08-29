@@ -21,11 +21,11 @@ public class Solution {
                 while(curr!=slow){
                     curr=curr.next;
                     slow=slow.next;
+
                 }
                 return curr;
             }
         }
         return null;
-        
     }
 }
