@@ -10,28 +10,23 @@
  */
 class Solution {
     public ListNode partition(ListNode head, int x) {
-        if(head==null || head.next==null){
-            return head;
-        }
-        ListNode smallDummy = new ListNode(0);
-        ListNode largeDummy = new ListNode(0);
-        ListNode small = smallDummy;
-        ListNode large = largeDummy;
+        ListNode lessDummy = new ListNode(0);
+        ListNode greaterDummy = new ListNode(0);
+        ListNode less = lessDummy;
+        ListNode great = greaterDummy;
         ListNode curr = head;
         while(curr!=null){
             if(curr.val<x){
-                small.next=curr;
-                small=small.next;
+                less.next = curr;
+                less = less.next;
             }else{
-                large.next=curr;
-                large=large.next;
+                great.next = curr;
+                great = great.next;
             }
-            curr=curr.next;
+            curr= curr.next;
         }
-        large.next=null;
-        small.next = largeDummy.next;
-        return smallDummy.next;
-        
+        great.next = null;
+        less.next=greaterDummy.next;
+        return lessDummy.next;
     }
-    
 }
