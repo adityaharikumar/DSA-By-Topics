@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0018-4sum) |
@@ -65,6 +66,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0138-copy-list-with-random-pointer) |
