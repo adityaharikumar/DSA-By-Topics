@@ -224,6 +224,7 @@
 | [0445-add-two-numbers-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0523-continuous-subarray-sum) |
+| [0836-rectangle-overlap](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1872-stone-game-viii) |
@@ -490,4 +491,8 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0073-set-matrix-zeroes) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
