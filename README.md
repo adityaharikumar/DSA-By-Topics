@@ -138,6 +138,7 @@
 | [0881-boats-to-save-people](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0881-boats-to-save-people) |
 | [0962-maximum-width-ramp](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0977-squares-of-a-sorted-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String
@@ -155,6 +156,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1927-sum-game](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -176,6 +178,7 @@
 | [1510-stone-game-iv](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1510-stone-game-iv) |
 | [1696-jump-game-vi](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1696-jump-game-vi) |
 | [1872-stone-game-viii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Manacher
 |  |
@@ -252,6 +255,7 @@
 | [1386-cinema-seat-allocation](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2029-stone-game-ix) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
