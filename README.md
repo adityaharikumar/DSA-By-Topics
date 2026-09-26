@@ -46,6 +46,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1696-jump-game-vi](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1696-jump-game-vi) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -86,6 +87,7 @@
 | [1096-brace-expansion-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2653-sliding-subarray-beauty) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -159,6 +161,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1096-brace-expansion-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
