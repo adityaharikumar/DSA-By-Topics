@@ -160,6 +160,7 @@
 | [0649-dota2-senate](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0649-dota2-senate) |
 | [0940-distinct-subsequences-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1927-sum-game) |
@@ -392,6 +393,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0907-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0962-maximum-width-ramp) |
 | [1096-brace-expansion-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Nim Game
 |  |
 | ------- |
@@ -511,4 +513,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
