@@ -160,6 +160,7 @@
 | [0647-palindromic-substrings](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0649-dota2-senate) |
 | [0856-score-of-parentheses](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -267,6 +268,7 @@
 | [0621-task-scheduler](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0649-dota2-senate) |
 | [0881-boats-to-save-people](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2029-stone-game-ix) |
@@ -396,6 +398,7 @@
 | [0856-score-of-parentheses](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0962-maximum-width-ramp](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0962-maximum-width-ramp) |
 | [1096-brace-expansion-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -524,6 +527,7 @@
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
