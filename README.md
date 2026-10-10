@@ -51,6 +51,7 @@
 | [2029-stone-game-ix](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2653-sliding-subarray-beauty) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -112,6 +113,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1096-brace-expansion-ii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -274,6 +276,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2029-stone-game-ix) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -297,6 +300,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Prefix Sum
 |  |
@@ -491,6 +495,7 @@
 | [0239-sliding-window-maximum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0621-task-scheduler) |
 | [1696-jump-game-vi](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1696-jump-game-vi) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Monotonic Queue
 |  |
 | ------- |
