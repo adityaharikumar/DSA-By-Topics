@@ -54,6 +54,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2653-sliding-subarray-beauty) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -92,6 +93,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2653-sliding-subarray-beauty) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -278,6 +280,7 @@
 | [2029-stone-game-ix](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2029-stone-game-ix) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -449,6 +452,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/1386-cinema-seat-allocation) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
