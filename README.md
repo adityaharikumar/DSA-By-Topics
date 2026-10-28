@@ -69,6 +69,7 @@
 | [3731-find-missing-elements](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3903-smallest-stable-index-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
@@ -207,6 +208,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Manacher
 |  |
 | ------- |
@@ -467,6 +469,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -542,6 +545,7 @@
 | [0073-set-matrix-zeroes](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0073-set-matrix-zeroes) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Geometry
 |  |
 | ------- |
