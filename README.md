@@ -63,6 +63,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3665-twisted-mirror-path-count](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -210,6 +211,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3665-twisted-mirror-path-count](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Manacher
 |  |
@@ -551,6 +553,7 @@
 | [0073-set-matrix-zeroes](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/0073-set-matrix-zeroes) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3665-twisted-mirror-path-count](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/adityaharikumar/DSA-By-Topics/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Geometry
 |  |
